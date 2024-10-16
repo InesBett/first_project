@@ -1,0 +1,1024 @@
+,incident,alert_level,alert_score,date_incident,magnitude_unit,magnitude_value,type,country,severity_score
+1,forest fire,Green,1,2024-10-13,ha,5035,WF,Australia,moderate
+3,earthquake,Green,0,2024-10-13,M,4.6,EQ,Ethiopia,minor
+4,earthquake,Green,0,2024-10-13,M,4.6,EQ,Russia,minor
+5,forest fire,Green,1,2024-10-13,ha,5322,WF,Australia,moderate
+6,forest fire,Green,1,2024-10-13,ha,5559,WF,Botswana,moderate
+9,earthquake,Green,0,2024-10-12,M,4.6,EQ,China,minor
+11,forest fire,Green,1,2024-10-12,ha,6205,WF,Bolivia,moderate
+12,forest fire,Green,1,2024-10-12,ha,5999,WF,Mongolia,moderate
+13,forest fire,Green,1,2024-10-12,ha,6875,WF,Bolivia,moderate
+14,forest fire,Green,1,2024-10-12,ha,8398,WF,Mongolia,moderate
+15,forest fire,Green,1,2024-10-12,ha,5854,WF,Russia,moderate
+18,earthquake,Green,0,2024-10-12,M,4.9,EQ,Japan,minor
+22,forest fire,Green,1,2024-10-12,ha,6218,WF,Australia,moderate
+23,forest fire,Green,1,2024-10-12,ha,9752,WF,Brazil,moderate
+24,forest fire,Green,1,2024-10-12,ha,5019,WF,Australia,moderate
+25,forest fire,Green,1,2024-10-11,ha,10694,WF,Australia,moderate
+26,forest fire,Green,1,2024-10-11,ha,15499,WF,Australia,moderate
+27,earthquake,Green,0,2024-10-11,M,4.6,EQ,Japan,minor
+28,earthquake,Green,0,2024-10-11,M,4.5,EQ,United States of America,minor
+29,forest fire,Green,1,2024-10-11,ha,5395,WF,Angola,moderate
+33,forest fire,Green,1,2024-10-11,ha,5088,WF,Australia,moderate
+34,forest fire,Green,1,2024-10-11,ha,8553,WF,Brazil,moderate
+35,forest fire,Green,1,2024-10-11,ha,6874,WF,Australia,moderate
+37,flood,Green,1,2024-10-11,,0,FL,United States of America,moderate
+38,forest fire,Green,1,2024-10-11,ha,6214,WF,Australia,moderate
+39,forest fire,Green,1,2024-10-11,ha,7262,WF,Brazil,moderate
+40,forest fire,Green,1,2024-10-11,ha,6547,WF,Australia,moderate
+41,forest fire,Green,1,2024-10-11,ha,7743,WF,Australia,moderate
+42,forest fire,Green,1,2024-10-11,ha,12831,WF,Australia,moderate
+43,forest fire,Green,1,2024-10-11,ha,13948,WF,Australia,moderate
+44,earthquake,Green,0,2024-10-11,M,4.9,EQ,Papua New Guinea,minor
+46,earthquake,Green,0,2024-10-11,M,4.9,EQ,Myanmar,minor
+47,forest fire,Green,1,2024-10-11,ha,7492,WF,Angola,moderate
+48,forest fire,Green,1,2024-10-11,ha,19289,WF,Botswana,moderate
+53,forest fire,Green,1,2024-10-10,ha,5378,WF,Australia,moderate
+54,forest fire,Green,1,2024-10-10,ha,5548,WF,Australia,moderate
+55,forest fire,Green,1,2024-10-10,ha,10462,WF,Australia,moderate
+56,forest fire,Green,1,2024-10-10,ha,7701,WF,Australia,moderate
+57,forest fire,Green,1,2024-10-10,ha,8360,WF,Australia,moderate
+61,forest fire,Green,1,2024-10-10,ha,8371,WF,Madagascar,moderate
+62,forest fire,Green,1,2024-10-10,ha,10851,WF,Australia,moderate
+63,forest fire,Green,1,2024-10-10,ha,25627,WF,Australia,moderate
+64,forest fire,Green,1,2024-10-10,ha,5561,WF,Zambia,moderate
+65,forest fire,Green,1,2024-10-10,ha,8673,WF,Australia,moderate
+66,forest fire,Green,1,2024-10-10,ha,13348,WF,Australia,moderate
+67,forest fire,Green,1,2024-10-10,ha,8596,WF,Russia,moderate
+68,forest fire,Green,1,2024-10-10,ha,11296,WF,Australia,moderate
+69,forest fire,Green,1,2024-10-10,ha,8584,WF,Australia,moderate
+70,Drought,Green,1,2024-10-10,km2,154501,DR,Mongolia,moderate
+71,Drought,Green,1,2024-10-10,km2,148783,DR,Russia,moderate
+73,forest fire,Green,1,2024-10-10,ha,5068,WF,Brazil,moderate
+74,forest fire,Green,1,2024-10-10,ha,17848,WF,Australia,moderate
+75,forest fire,Green,1,2024-10-10,ha,6951,WF,Australia,moderate
+78,earthquake,Green,0,2024-10-10,M,4.6,EQ,Argentina,minor
+79,forest fire,Green,1,2024-10-10,ha,9725,WF,Angola,moderate
+84,earthquake,Green,0,2024-10-09,M,4.9,EQ,China,minor
+85,forest fire,Green,1,2024-10-09,ha,5048,WF,Angola,moderate
+86,forest fire,Green,1,2024-10-09,ha,5782,WF,Russia,moderate
+90,forest fire,Green,1,2024-10-09,ha,11403,WF,Mozambique,moderate
+91,forest fire,Green,1,2024-10-09,ha,8291,WF,Australia,moderate
+92,forest fire,Green,1,2024-10-09,ha,8296,WF,Brazil,moderate
+93,forest fire,Green,1,2024-10-09,ha,28944,WF,Australia,moderate
+94,forest fire,Green,1,2024-10-09,ha,9173,WF,Australia,moderate
+95,forest fire,Green,1,2024-10-09,ha,34065,WF,Australia,moderate
+96,forest fire,Green,1,2024-10-09,ha,5138,WF,Brazil,moderate
+97,forest fire,Green,1,2024-10-09,ha,6626,WF,Russia,moderate
+98,forest fire,Green,1,2024-10-09,ha,7866,WF,Angola,moderate
+99,forest fire,Green,1,2024-10-09,ha,8088,WF,Australia,moderate
+100,forest fire,Green,1,2024-10-09,ha,11347,WF,Brazil,moderate
+101,forest fire,Green,1,2024-10-09,ha,11474,WF,Australia,moderate
+102,forest fire,Green,1,2024-10-09,ha,5780,WF,Australia,moderate
+103,forest fire,Green,1,2024-10-09,ha,10552,WF,Australia,moderate
+104,forest fire,Green,1,2024-10-09,ha,5932,WF,Australia,moderate
+105,forest fire,Green,1,2024-10-09,ha,9571,WF,Australia,moderate
+106,forest fire,Green,1,2024-10-09,ha,7907,WF,Australia,moderate
+107,forest fire,Green,1,2024-10-09,ha,6458,WF,Australia,moderate
+109,forest fire,Green,1,2024-10-09,ha,5560,WF,Australia,moderate
+110,forest fire,Green,1,2024-10-09,ha,8060,WF,Brazil,moderate
+111,forest fire,Green,1,2024-10-09,ha,27658,WF,Australia,moderate
+113,forest fire,Green,1,2024-10-09,ha,6169,WF,Australia,moderate
+114,forest fire,Green,1,2024-10-09,ha,29850,WF,Australia,moderate
+115,forest fire,Green,1,2024-10-09,ha,7469,WF,Australia,moderate
+116,forest fire,Green,1,2024-10-09,ha,7716,WF,Australia,moderate
+117,forest fire,Green,1,2024-10-09,ha,22986,WF,Brazil,moderate
+118,forest fire,Green,1,2024-10-09,ha,8001,WF,Australia,moderate
+119,forest fire,Green,1,2024-10-09,ha,5301,WF,Brazil,moderate
+122,forest fire,Green,1,2024-10-08,ha,37957,WF,Australia,moderate
+123,forest fire,Green,1,2024-10-08,ha,5517,WF,Paraguay,moderate
+124,forest fire,Green,1,2024-10-08,ha,5785,WF,Australia,moderate
+125,forest fire,Green,1,2024-10-08,ha,29107,WF,Australia,moderate
+126,forest fire,Green,1,2024-10-08,ha,10812,WF,Russia,moderate
+128,forest fire,Green,1,2024-10-08,ha,7422,WF,Russia,moderate
+129,forest fire,Green,1,2024-10-08,ha,18530,WF,Australia,moderate
+130,forest fire,Green,1,2024-10-08,ha,21856,WF,Botswana,moderate
+131,forest fire,Green,1,2024-10-08,ha,10113,WF,Brazil,moderate
+132,forest fire,Green,1,2024-10-08,ha,15871,WF,Australia,moderate
+133,earthquake,Green,0,2024-10-08,M,4.6,EQ,Bolivia,minor
+135,forest fire,Green,1,2024-10-08,ha,6736,WF,Australia,moderate
+136,forest fire,Green,1,2024-10-08,ha,8976,WF,Australia,moderate
+137,forest fire,Green,1,2024-10-08,ha,28103,WF,Australia,moderate
+138,forest fire,Green,1,2024-10-08,ha,61071,WF,Australia,moderate
+139,forest fire,Green,1,2024-10-08,ha,6374,WF,Paraguay,moderate
+142,forest fire,Green,1,2024-10-08,ha,11711,WF,Australia,moderate
+143,forest fire,Green,1,2024-10-08,ha,7728,WF,Brazil,moderate
+144,forest fire,Green,1,2024-10-08,ha,9684,WF,Australia,moderate
+145,forest fire,Green,1,2024-10-08,ha,32003,WF,Australia,moderate
+146,forest fire,Green,1,2024-10-08,ha,20648,WF,Australia,moderate
+152,forest fire,Green,1,2024-10-07,ha,7670,WF,Russia,moderate
+153,earthquake,Green,0,2024-10-07,M,4.9,EQ,Philippines,minor
+154,forest fire,Green,1,2024-10-07,ha,5657,WF,Bolivia,moderate
+155,forest fire,Green,1,2024-10-07,ha,6870,WF,Australia,moderate
+156,forest fire,Green,1,2024-10-07,ha,6842,WF,Mozambique,moderate
+157,forest fire,Green,1,2024-10-07,ha,19545,WF,Australia,moderate
+158,forest fire,Green,1,2024-10-07,ha,10519,WF,Australia,moderate
+159,forest fire,Green,1,2024-10-07,ha,7205,WF,Kazakhstan,moderate
+160,forest fire,Green,1,2024-10-07,ha,16371,WF,Australia,moderate
+161,forest fire,Green,1,2024-10-07,ha,13605,WF,Australia,moderate
+162,Drought,Green,1,2024-10-07,km2,85619,DR,Argentina,moderate
+164,forest fire,Green,1,2024-10-07,ha,13213,WF,Kazakhstan,moderate
+167,earthquake,Green,0,2024-10-07,M,4.7,EQ,Greece,minor
+168,forest fire,Green,1,2024-10-07,ha,21706,WF,Australia,moderate
+169,forest fire,Green,1,2024-10-07,ha,12039,WF,Kazakhstan,moderate
+171,earthquake,Green,0,2024-10-07,M,4.6,EQ,Argentina,minor
+173,earthquake,Green,0,2024-10-07,M,4.9,EQ,Argentina,minor
+178,forest fire,Green,1,2024-10-06,ha,7089,WF,Australia,moderate
+179,forest fire,Green,1,2024-10-06,ha,7416,WF,Brazil,moderate
+180,forest fire,Green,1,2024-10-06,ha,20147,WF,Bolivia,moderate
+181,forest fire,Green,1,2024-10-06,ha,128023,WF,Australia,moderate
+182,forest fire,Green,1,2024-10-06,ha,34199,WF,Australia,moderate
+183,forest fire,Green,1,2024-10-06,ha,10959,WF,Australia,moderate
+188,forest fire,Green,1,2024-10-06,ha,5058,WF,Bolivia,moderate
+189,forest fire,Green,1,2024-10-06,ha,5003,WF,Bolivia,moderate
+190,forest fire,Green,1,2024-10-06,ha,5100,WF,Argentina,moderate
+191,earthquake,Green,0,2024-10-06,M,5.1,EQ,Iceland,minor
+193,earthquake,Green,0,2024-10-06,M,4.9,EQ,Ethiopia,minor
+194,forest fire,Green,1,2024-10-06,ha,5168,WF,Brazil,moderate
+195,forest fire,Green,1,2024-10-06,ha,105132,WF,Russia,moderate
+197,earthquake,Green,0,2024-10-06,M,4.7,EQ,New Zealand,minor
+199,forest fire,Green,1,2024-10-06,ha,11636,WF,Australia,moderate
+200,forest fire,Green,1,2024-10-06,ha,11741,WF,Brazil,moderate
+201,forest fire,Green,1,2024-10-06,ha,9420,WF,Australia,moderate
+202,forest fire,Green,1,2024-10-06,ha,10588,WF,Australia,moderate
+203,forest fire,Green,1,2024-10-06,ha,6223,WF,Australia,moderate
+204,forest fire,Green,1,2024-10-06,ha,11261,WF,Australia,moderate
+213,forest fire,Green,1,2024-10-06,ha,57023,WF,Australia,moderate
+214,forest fire,Green,1,2024-10-06,ha,12857,WF,Australia,moderate
+215,forest fire,Green,1,2024-10-06,ha,8862,WF,Australia,moderate
+217,earthquake,Green,0,2024-10-05,M,4.5,EQ,Iran,minor
+218,forest fire,Green,1,2024-10-05,ha,5512,WF,Brazil,moderate
+219,forest fire,Green,1,2024-10-05,ha,7039,WF,Australia,moderate
+227,forest fire,Green,1,2024-10-05,ha,5396,WF,Botswana,moderate
+228,forest fire,Green,1,2024-10-05,ha,7231,WF,Dem. Rep. Congo,moderate
+231,flood,Green,1,2024-10-05,,0,FL,Bosnia and Herz.,moderate
+232,forest fire,Green,1,2024-10-05,ha,6147,WF,Brazil,moderate
+233,flood,Green,1,2024-10-05,,0,FL,New Zealand,moderate
+234,forest fire,Green,1,2024-10-05,ha,5755,WF,Bolivia,moderate
+235,earthquake,Green,0,2024-10-05,M,4.5,EQ,Indonesia,minor
+239,forest fire,Green,1,2024-10-04,ha,6334,WF,Australia,moderate
+240,forest fire,Green,1,2024-10-04,ha,5798,WF,Brazil,moderate
+241,forest fire,Green,1,2024-10-04,ha,6784,WF,Australia,moderate
+243,forest fire,Green,1,2024-10-04,ha,18253,WF,Australia,moderate
+245,forest fire,Green,1,2024-10-04,ha,9974,WF,South Africa,moderate
+246,forest fire,Green,1,2024-10-04,ha,19498,WF,Bolivia,moderate
+247,forest fire,Green,1,2024-10-04,ha,5131,WF,Angola,moderate
+248,forest fire,Green,1,2024-10-04,ha,9849,WF,Australia,moderate
+250,earthquake,Green,0,2024-10-04,M,4.6,EQ,Chile,minor
+253,forest fire,Green,1,2024-10-04,ha,7826,WF,Dem. Rep. Congo,moderate
+254,forest fire,Green,1,2024-10-04,ha,12680,WF,South Africa,moderate
+255,forest fire,Green,1,2024-10-04,ha,11276,WF,Paraguay,moderate
+256,flood,Green,1,2024-10-04,,0,FL,Croatia,moderate
+257,flood,Green,1,2024-10-04,,0,FL,Liberia,moderate
+258,earthquake,Green,0,2024-10-04,M,4.7,EQ,Tanzania,minor
+260,earthquake,Green,0,2024-10-04,M,4.5,EQ,Turkey,minor
+261,forest fire,Green,1,2024-10-04,ha,11602,WF,Australia,moderate
+262,forest fire,Green,1,2024-10-04,ha,9268,WF,Brazil,moderate
+265,forest fire,Green,1,2024-10-04,ha,9921,WF,Brazil,moderate
+266,forest fire,Green,1,2024-10-03,ha,8587,WF,Russia,moderate
+271,forest fire,Green,1,2024-10-03,ha,6194,WF,Brazil,moderate
+272,forest fire,Green,1,2024-10-03,ha,10517,WF,Australia,moderate
+273,forest fire,Green,1,2024-10-03,ha,7124,WF,Bolivia,moderate
+274,forest fire,Green,1,2024-10-03,ha,6562,WF,Brazil,moderate
+280,forest fire,Green,1,2024-10-03,ha,15560,WF,Australia,moderate
+281,forest fire,Green,1,2024-10-03,ha,6501,WF,Australia,moderate
+282,forest fire,Green,1,2024-10-03,ha,7813,WF,Australia,moderate
+284,flood,Green,1,2024-10-03,,0,FL,Thailand,moderate
+285,flood,Green,1,2024-10-03,,0,FL,Iran,moderate
+290,forest fire,Green,1,2024-10-03,ha,11766,WF,Australia,moderate
+291,forest fire,Green,1,2024-10-03,ha,5679,WF,Brazil,moderate
+292,forest fire,Green,1,2024-10-03,ha,9369,WF,Brazil,moderate
+293,forest fire,Green,1,2024-10-03,ha,6423,WF,Brazil,moderate
+294,forest fire,Green,1,2024-10-03,ha,8710,WF,Botswana,moderate
+295,forest fire,Green,1,2024-10-03,ha,15429,WF,Bolivia,moderate
+298,forest fire,Green,1,2024-10-02,ha,5608,WF,Bolivia,moderate
+299,forest fire,Green,1,2024-10-02,ha,6317,WF,Bolivia,moderate
+300,forest fire,Green,1,2024-10-02,ha,5610,WF,Bolivia,moderate
+301,forest fire,Green,1,2024-10-02,ha,9691,WF,Brazil,moderate
+305,forest fire,Green,1,2024-10-02,ha,5489,WF,Mozambique,moderate
+306,forest fire,Green,1,2024-10-02,ha,7681,WF,Brazil,moderate
+307,forest fire,Green,1,2024-10-02,ha,5677,WF,Angola,moderate
+308,forest fire,Green,1,2024-10-02,ha,10359,WF,Brazil,moderate
+309,forest fire,Green,1,2024-10-02,ha,5292,WF,Brazil,moderate
+312,forest fire,Green,1,2024-10-02,ha,5209,WF,Mozambique,moderate
+313,forest fire,Green,1,2024-10-02,ha,9706,WF,Brazil,moderate
+314,forest fire,Green,1,2024-10-02,ha,6382,WF,Bolivia,moderate
+315,forest fire,Green,1,2024-10-02,ha,53453,WF,Australia,moderate
+316,forest fire,Green,1,2024-10-02,ha,11424,WF,Australia,moderate
+317,forest fire,Green,1,2024-10-02,ha,5796,WF,Brazil,moderate
+318,forest fire,Green,1,2024-10-02,ha,9280,WF,Australia,moderate
+319,forest fire,Green,1,2024-10-02,ha,8031,WF,Russia,moderate
+323,earthquake,Green,0,2024-10-02,M,4.5,EQ,Indonesia,minor
+324,forest fire,Green,1,2024-10-02,ha,7565,WF,Mozambique,moderate
+325,forest fire,Green,1,2024-10-02,ha,9321,WF,Australia,moderate
+326,forest fire,Green,1,2024-10-02,ha,9554,WF,Brazil,moderate
+327,forest fire,Green,1,2024-10-02,ha,5496,WF,Brazil,moderate
+330,forest fire,Green,1,2024-10-01,ha,44723,WF,Bolivia,moderate
+331,forest fire,Green,1,2024-10-01,ha,5610,WF,South Africa,moderate
+332,forest fire,Green,1,2024-10-01,ha,13898,WF,Bolivia,moderate
+333,forest fire,Green,1,2024-10-01,ha,10981,WF,Angola,moderate
+340,forest fire,Green,1,2024-10-01,ha,5012,WF,Brazil,moderate
+341,forest fire,Green,1,2024-10-01,ha,5331,WF,Zimbabwe,moderate
+342,forest fire,Green,1,2024-10-01,ha,6450,WF,Mozambique,moderate
+343,forest fire,Green,1,2024-10-01,ha,9669,WF,Brazil,moderate
+344,forest fire,Green,1,2024-10-01,ha,5691,WF,Mozambique,moderate
+345,forest fire,Green,1,2024-10-01,ha,6563,WF,Tanzania,moderate
+346,forest fire,Green,1,2024-10-01,ha,5045,WF,Russia,moderate
+349,forest fire,Green,1,2024-10-01,ha,6492,WF,Mozambique,moderate
+350,forest fire,Green,1,2024-10-01,ha,5809,WF,Mozambique,moderate
+351,forest fire,Green,1,2024-10-01,ha,6465,WF,Mozambique,moderate
+352,forest fire,Green,1,2024-10-01,ha,11002,WF,Angola,moderate
+355,forest fire,Green,1,2024-10-01,ha,5718,WF,Australia,moderate
+356,forest fire,Green,1,2024-10-01,ha,14489,WF,Bolivia,moderate
+357,forest fire,Green,1,2024-10-01,ha,6611,WF,Mozambique,moderate
+358,forest fire,Green,1,2024-10-01,ha,22968,WF,Brazil,moderate
+359,forest fire,Green,1,2024-10-01,ha,10070,WF,Australia,moderate
+360,forest fire,Green,1,2024-10-01,ha,5461,WF,Bolivia,moderate
+361,forest fire,Green,1,2024-10-01,ha,5546,WF,Australia,moderate
+362,forest fire,Green,1,2024-10-01,ha,10291,WF,Brazil,moderate
+363,forest fire,Green,1,2024-10-01,ha,72756,WF,Australia,moderate
+364,forest fire,Green,1,2024-10-01,ha,41691,WF,Brazil,moderate
+370,earthquake,Green,0,2024-10-01,M,5,EQ,Indonesia,minor
+371,forest fire,Green,1,2024-10-01,ha,8033,WF,Brazil,moderate
+372,forest fire,Green,1,2024-10-01,ha,15496,WF,Australia,moderate
+376,forest fire,Green,1,2024-10-01,ha,5327,WF,Angola,moderate
+377,forest fire,Green,1,2024-10-01,ha,24946,WF,Bolivia,moderate
+378,forest fire,Green,1,2024-10-01,ha,14386,WF,Brazil,moderate
+379,forest fire,Green,1,2024-10-01,ha,5916,WF,South Africa,moderate
+380,forest fire,Green,1,2024-10-01,ha,12642,WF,Angola,moderate
+381,forest fire,Green,1,2024-10-01,ha,7220,WF,Australia,moderate
+382,forest fire,Green,1,2024-10-01,ha,5003,WF,Brazil,moderate
+386,forest fire,Green,1,2024-09-30,ha,8668,WF,Mozambique,moderate
+387,forest fire,Green,1,2024-09-30,ha,6660,WF,Mozambique,moderate
+388,forest fire,Green,1,2024-09-30,ha,6275,WF,Zambia,moderate
+389,forest fire,Green,1,2024-09-30,ha,5053,WF,Mozambique,moderate
+390,forest fire,Green,1,2024-09-30,ha,6953,WF,Mozambique,moderate
+391,forest fire,Green,1,2024-09-30,ha,9876,WF,Bolivia,moderate
+392,forest fire,Green,1,2024-09-30,ha,7666,WF,Brazil,moderate
+393,forest fire,Green,1,2024-09-30,ha,8020,WF,Russia,moderate
+395,forest fire,Green,1,2024-09-30,ha,7744,WF,Zambia,moderate
+396,forest fire,Green,1,2024-09-30,ha,6191,WF,Tanzania,moderate
+397,forest fire,Green,1,2024-09-30,ha,29090,WF,Australia,moderate
+398,forest fire,Green,1,2024-09-30,ha,6339,WF,Mozambique,moderate
+399,forest fire,Green,1,2024-09-30,ha,11704,WF,Bolivia,moderate
+400,forest fire,Green,1,2024-09-30,ha,14204,WF,Mozambique,moderate
+401,forest fire,Green,1,2024-09-30,ha,9016,WF,Australia,moderate
+402,forest fire,Green,1,2024-09-30,ha,13765,WF,Australia,moderate
+404,forest fire,Green,1,2024-09-30,ha,31155,WF,Australia,moderate
+405,forest fire,Green,1,2024-09-30,ha,6571,WF,Australia,moderate
+406,forest fire,Green,1,2024-09-30,ha,13664,WF,Australia,moderate
+407,forest fire,Green,1,2024-09-30,ha,23369,WF,United States of America,moderate
+408,forest fire,Green,1,2024-09-30,ha,12627,WF,Mozambique,moderate
+409,forest fire,Orange,2,2024-09-30,ha,11791,WF,Greece,severe
+410,forest fire,Green,1,2024-09-30,ha,49389,WF,Australia,moderate
+411,forest fire,Green,1,2024-09-30,ha,8876,WF,Brazil,moderate
+412,forest fire,Green,1,2024-09-30,ha,7318,WF,Brazil,moderate
+413,forest fire,Green,1,2024-09-30,ha,7781,WF,Australia,moderate
+414,forest fire,Green,1,2024-09-30,ha,5937,WF,Brazil,moderate
+415,forest fire,Green,1,2024-09-30,ha,15467,WF,Brazil,moderate
+416,forest fire,Green,1,2024-09-30,ha,24354,WF,Botswana,moderate
+417,forest fire,Green,1,2024-09-30,ha,31486,WF,Australia,moderate
+418,forest fire,Green,1,2024-09-30,ha,10285,WF,Angola,moderate
+419,forest fire,Green,1,2024-09-30,ha,16637,WF,Australia,moderate
+420,forest fire,Green,1,2024-09-30,ha,10991,WF,United States of America,moderate
+422,forest fire,Green,1,2024-09-29,ha,7306,WF,Mozambique,moderate
+423,forest fire,Green,1,2024-09-29,ha,6114,WF,Mozambique,moderate
+424,forest fire,Green,1,2024-09-29,ha,6029,WF,Zambia,moderate
+425,forest fire,Green,1,2024-09-29,ha,5343,WF,Mozambique,moderate
+426,forest fire,Green,1,2024-09-29,ha,9514,WF,Mozambique,moderate
+427,forest fire,Green,1,2024-09-29,ha,8051,WF,Tanzania,moderate
+428,forest fire,Green,1,2024-09-29,ha,6740,WF,Australia,moderate
+429,forest fire,Green,1,2024-09-29,ha,6310,WF,Zambia,moderate
+430,forest fire,Green,1,2024-09-29,ha,5278,WF,Madagascar,moderate
+431,forest fire,Green,1,2024-09-29,ha,8678,WF,Mozambique,moderate
+432,forest fire,Green,1,2024-09-29,ha,5990,WF,Mozambique,moderate
+433,forest fire,Green,1,2024-09-29,ha,33142,WF,Bolivia,moderate
+435,earthquake,Green,0,2024-09-29,M,4.7,EQ,Colombia,minor
+438,forest fire,Green,1,2024-09-29,ha,5018,WF,Brazil,moderate
+440,earthquake,Green,0,2024-09-29,M,4.5,EQ,Afghanistan,minor
+442,forest fire,Green,1,2024-09-28,ha,12037,WF,Angola,moderate
+443,forest fire,Green,1,2024-09-28,ha,10073,WF,Brazil,moderate
+444,forest fire,Green,1,2024-09-28,ha,12651,WF,Australia,moderate
+445,forest fire,Green,1,2024-09-28,ha,8059,WF,Bolivia,moderate
+449,forest fire,Green,1,2024-09-28,ha,5405,WF,Tanzania,moderate
+450,forest fire,Green,1,2024-09-28,ha,5317,WF,Angola,moderate
+451,forest fire,Green,1,2024-09-28,ha,5002,WF,Australia,moderate
+455,forest fire,Green,1,2024-09-28,ha,9956,WF,South Africa,moderate
+456,forest fire,Green,1,2024-09-28,ha,6225,WF,Brazil,moderate
+457,forest fire,Green,1,2024-09-28,ha,10720,WF,Brazil,moderate
+458,forest fire,Green,1,2024-09-28,ha,5394,WF,Brazil,moderate
+459,earthquake,Green,0,2024-09-28,M,4.6,EQ,Tajikistan,minor
+460,earthquake,Green,0,2024-09-28,M,4.6,EQ,Turkmenistan,minor
+463,forest fire,Green,1,2024-09-28,ha,5829,WF,Brazil,moderate
+464,forest fire,Green,1,2024-09-28,ha,15132,WF,Brazil,moderate
+465,forest fire,Green,1,2024-09-28,ha,7981,WF,Brazil,moderate
+467,earthquake,Green,0,2024-09-28,M,4.5,EQ,Ethiopia,minor
+471,earthquake,Green,0,2024-09-28,M,4.6,EQ,Ethiopia,minor
+472,forest fire,Green,1,2024-09-27,ha,5557,WF,Brazil,moderate
+473,earthquake,Green,0,2024-09-27,M,4.6,EQ,Russia,minor
+476,forest fire,Green,1,2024-09-27,ha,8054,WF,Zambia,moderate
+478,forest fire,Green,1,2024-09-27,ha,16162,WF,South Africa,moderate
+485,forest fire,Green,1,2024-09-27,ha,5933,WF,Australia,moderate
+486,forest fire,Green,1,2024-09-27,ha,6655,WF,South Africa,moderate
+487,forest fire,Green,1,2024-09-27,ha,5912,WF,South Africa,moderate
+489,earthquake,Green,0,2024-09-27,M,4.9,EQ,Ethiopia,minor
+495,earthquake,Green,0,2024-09-26,M,5,EQ,Mexico,minor
+496,forest fire,Green,1,2024-09-26,ha,5293,WF,Angola,moderate
+497,forest fire,Green,1,2024-09-26,ha,8150,WF,South Africa,moderate
+498,forest fire,Green,1,2024-09-26,ha,5127,WF,Bolivia,moderate
+499,forest fire,Green,1,2024-09-26,ha,6120,WF,South Africa,moderate
+503,forest fire,Green,1,2024-10-13,ha,6127,WF,Brazil,moderate
+504,forest fire,Green,1,2024-10-13,ha,6451,WF,Australia,moderate
+506,earthquake,Green,0,2024-10-13,M,4.6,EQ,Ethiopia,minor
+507,earthquake,Green,0,2024-10-13,M,4.6,EQ,Russia,minor
+508,forest fire,Green,1,2024-10-13,ha,5848,WF,Australia,moderate
+509,forest fire,Green,1,2024-10-13,ha,5559,WF,Botswana,moderate
+512,earthquake,Green,0,2024-10-12,M,4.6,EQ,China,minor
+514,forest fire,Green,1,2024-10-12,ha,7634,WF,Bolivia,moderate
+515,forest fire,Green,1,2024-10-12,ha,7737,WF,Mongolia,moderate
+516,forest fire,Green,1,2024-10-12,ha,7865,WF,Bolivia,moderate
+517,forest fire,Green,1,2024-10-12,ha,8398,WF,Mongolia,moderate
+518,forest fire,Green,1,2024-10-12,ha,7501,WF,Russia,moderate
+521,earthquake,Green,0,2024-10-12,M,4.9,EQ,Japan,minor
+527,forest fire,Green,1,2024-10-11,ha,10201,WF,Brazil,moderate
+528,forest fire,Green,1,2024-10-11,ha,11787,WF,Australia,moderate
+529,forest fire,Green,1,2024-10-11,ha,15882,WF,Australia,moderate
+530,earthquake,Green,0,2024-10-11,M,4.6,EQ,Japan,minor
+531,earthquake,Green,0,2024-10-11,M,4.5,EQ,United States of America,minor
+532,forest fire,Green,1,2024-10-11,ha,5395,WF,Angola,moderate
+536,forest fire,Green,1,2024-10-11,ha,5088,WF,Australia,moderate
+537,forest fire,Green,1,2024-10-11,ha,8553,WF,Brazil,moderate
+538,forest fire,Green,1,2024-10-11,ha,6874,WF,Australia,moderate
+540,flood,Green,1,2024-10-11,,0,FL,United States of America,moderate
+541,forest fire,Green,1,2024-10-11,ha,6214,WF,Australia,moderate
+542,forest fire,Green,1,2024-10-11,ha,7262,WF,Brazil,moderate
+543,forest fire,Green,1,2024-10-11,ha,6547,WF,Australia,moderate
+544,forest fire,Green,1,2024-10-11,ha,8016,WF,Australia,moderate
+545,forest fire,Green,1,2024-10-11,ha,12831,WF,Australia,moderate
+546,forest fire,Green,1,2024-10-11,ha,19770,WF,Australia,moderate
+547,earthquake,Green,0,2024-10-11,M,4.9,EQ,Papua New Guinea,minor
+549,earthquake,Green,0,2024-10-11,M,4.9,EQ,Myanmar,minor
+550,forest fire,Green,1,2024-10-11,ha,7492,WF,Angola,moderate
+551,forest fire,Green,1,2024-10-11,ha,19289,WF,Botswana,moderate
+556,forest fire,Green,1,2024-10-10,ha,5378,WF,Australia,moderate
+557,forest fire,Green,1,2024-10-10,ha,5548,WF,Australia,moderate
+558,forest fire,Green,1,2024-10-10,ha,10462,WF,Australia,moderate
+559,forest fire,Green,1,2024-10-10,ha,7701,WF,Australia,moderate
+560,forest fire,Green,1,2024-10-10,ha,8360,WF,Australia,moderate
+564,forest fire,Green,1,2024-10-10,ha,8371,WF,Madagascar,moderate
+565,forest fire,Green,1,2024-10-10,ha,11172,WF,Australia,moderate
+566,forest fire,Green,1,2024-10-10,ha,25627,WF,Australia,moderate
+567,forest fire,Green,1,2024-10-10,ha,5561,WF,Zambia,moderate
+568,forest fire,Green,1,2024-10-10,ha,8673,WF,Australia,moderate
+569,forest fire,Green,1,2024-10-10,ha,13882,WF,Australia,moderate
+570,forest fire,Green,1,2024-10-10,ha,8596,WF,Russia,moderate
+571,forest fire,Green,1,2024-10-10,ha,11296,WF,Australia,moderate
+572,forest fire,Green,1,2024-10-10,ha,8584,WF,Australia,moderate
+573,Drought,Green,1,2024-10-10,km2,154501,DR,Mongolia,moderate
+574,Drought,Green,1,2024-10-10,km2,148783,DR,Russia,moderate
+576,forest fire,Green,1,2024-10-10,ha,5068,WF,Brazil,moderate
+577,forest fire,Green,1,2024-10-10,ha,17848,WF,Australia,moderate
+578,forest fire,Green,1,2024-10-10,ha,6951,WF,Australia,moderate
+581,earthquake,Green,0,2024-10-10,M,4.6,EQ,Argentina,minor
+582,forest fire,Green,1,2024-10-10,ha,9725,WF,Angola,moderate
+587,earthquake,Green,0,2024-10-09,M,4.9,EQ,China,minor
+588,forest fire,Green,1,2024-10-09,ha,5048,WF,Angola,moderate
+589,forest fire,Green,1,2024-10-09,ha,5782,WF,Russia,moderate
+593,forest fire,Green,1,2024-10-09,ha,11403,WF,Mozambique,moderate
+594,forest fire,Green,1,2024-10-09,ha,8291,WF,Australia,moderate
+595,forest fire,Green,1,2024-10-09,ha,8296,WF,Brazil,moderate
+596,forest fire,Green,1,2024-10-09,ha,28944,WF,Australia,moderate
+597,forest fire,Green,1,2024-10-09,ha,9173,WF,Australia,moderate
+598,forest fire,Green,1,2024-10-09,ha,34065,WF,Australia,moderate
+599,forest fire,Green,1,2024-10-09,ha,5138,WF,Brazil,moderate
+600,forest fire,Green,1,2024-10-09,ha,6626,WF,Russia,moderate
+601,forest fire,Green,1,2024-10-09,ha,7866,WF,Angola,moderate
+602,forest fire,Green,1,2024-10-09,ha,8088,WF,Australia,moderate
+603,forest fire,Green,1,2024-10-09,ha,11347,WF,Brazil,moderate
+604,forest fire,Green,1,2024-10-09,ha,11474,WF,Australia,moderate
+605,forest fire,Green,1,2024-10-09,ha,5780,WF,Australia,moderate
+606,forest fire,Green,1,2024-10-09,ha,10552,WF,Australia,moderate
+607,forest fire,Green,1,2024-10-09,ha,5932,WF,Australia,moderate
+608,forest fire,Green,1,2024-10-09,ha,9571,WF,Australia,moderate
+609,forest fire,Green,1,2024-10-09,ha,7907,WF,Australia,moderate
+610,forest fire,Green,1,2024-10-09,ha,6458,WF,Australia,moderate
+612,forest fire,Green,1,2024-10-09,ha,5560,WF,Australia,moderate
+613,forest fire,Green,1,2024-10-09,ha,8060,WF,Brazil,moderate
+614,forest fire,Green,1,2024-10-09,ha,27658,WF,Australia,moderate
+616,forest fire,Green,1,2024-10-09,ha,6169,WF,Australia,moderate
+617,forest fire,Green,1,2024-10-09,ha,29850,WF,Australia,moderate
+618,forest fire,Green,1,2024-10-09,ha,7469,WF,Australia,moderate
+619,forest fire,Green,1,2024-10-09,ha,7716,WF,Australia,moderate
+620,forest fire,Green,1,2024-10-09,ha,22986,WF,Brazil,moderate
+621,forest fire,Green,1,2024-10-09,ha,8001,WF,Australia,moderate
+622,forest fire,Green,1,2024-10-09,ha,5301,WF,Brazil,moderate
+625,forest fire,Green,1,2024-10-08,ha,37957,WF,Australia,moderate
+626,forest fire,Green,1,2024-10-08,ha,5517,WF,Paraguay,moderate
+627,forest fire,Green,1,2024-10-08,ha,5785,WF,Australia,moderate
+628,forest fire,Green,1,2024-10-08,ha,29107,WF,Australia,moderate
+629,forest fire,Green,1,2024-10-08,ha,10812,WF,Russia,moderate
+631,forest fire,Green,1,2024-10-08,ha,7422,WF,Russia,moderate
+632,forest fire,Green,1,2024-10-08,ha,18530,WF,Australia,moderate
+633,forest fire,Green,1,2024-10-08,ha,21856,WF,Botswana,moderate
+634,forest fire,Green,1,2024-10-08,ha,10113,WF,Brazil,moderate
+635,forest fire,Green,1,2024-10-08,ha,15871,WF,Australia,moderate
+636,earthquake,Green,0,2024-10-08,M,4.6,EQ,Bolivia,minor
+638,forest fire,Green,1,2024-10-08,ha,6736,WF,Australia,moderate
+639,forest fire,Green,1,2024-10-08,ha,8976,WF,Australia,moderate
+640,forest fire,Green,1,2024-10-08,ha,28103,WF,Australia,moderate
+641,forest fire,Green,1,2024-10-08,ha,61071,WF,Australia,moderate
+642,forest fire,Green,1,2024-10-08,ha,6374,WF,Paraguay,moderate
+645,forest fire,Green,1,2024-10-08,ha,11711,WF,Australia,moderate
+646,forest fire,Green,1,2024-10-08,ha,7728,WF,Brazil,moderate
+647,forest fire,Green,1,2024-10-08,ha,9684,WF,Australia,moderate
+648,forest fire,Green,1,2024-10-08,ha,32003,WF,Australia,moderate
+649,forest fire,Green,1,2024-10-08,ha,20648,WF,Australia,moderate
+655,forest fire,Green,1,2024-10-07,ha,7670,WF,Russia,moderate
+656,earthquake,Green,0,2024-10-07,M,4.9,EQ,Philippines,minor
+657,forest fire,Green,1,2024-10-07,ha,5657,WF,Bolivia,moderate
+658,forest fire,Green,1,2024-10-07,ha,6870,WF,Australia,moderate
+659,forest fire,Green,1,2024-10-07,ha,6842,WF,Mozambique,moderate
+660,forest fire,Green,1,2024-10-07,ha,19545,WF,Australia,moderate
+661,forest fire,Green,1,2024-10-07,ha,10519,WF,Australia,moderate
+662,forest fire,Green,1,2024-10-07,ha,7205,WF,Kazakhstan,moderate
+663,forest fire,Green,1,2024-10-07,ha,16371,WF,Australia,moderate
+664,forest fire,Green,1,2024-10-07,ha,13605,WF,Australia,moderate
+665,Drought,Green,1,2024-10-07,km2,85619,DR,Argentina,moderate
+667,forest fire,Green,1,2024-10-07,ha,13213,WF,Kazakhstan,moderate
+670,earthquake,Green,0,2024-10-07,M,4.7,EQ,Greece,minor
+671,forest fire,Green,1,2024-10-07,ha,21706,WF,Australia,moderate
+672,forest fire,Green,1,2024-10-07,ha,12039,WF,Kazakhstan,moderate
+674,earthquake,Green,0,2024-10-07,M,4.6,EQ,Argentina,minor
+676,earthquake,Green,0,2024-10-07,M,4.9,EQ,Argentina,minor
+681,forest fire,Green,1,2024-10-06,ha,7089,WF,Australia,moderate
+682,forest fire,Green,1,2024-10-06,ha,7416,WF,Brazil,moderate
+683,forest fire,Green,1,2024-10-06,ha,20147,WF,Bolivia,moderate
+684,forest fire,Green,1,2024-10-06,ha,128023,WF,Australia,moderate
+685,forest fire,Green,1,2024-10-06,ha,34199,WF,Australia,moderate
+686,forest fire,Green,1,2024-10-06,ha,10959,WF,Australia,moderate
+691,forest fire,Green,1,2024-10-06,ha,5058,WF,Bolivia,moderate
+692,forest fire,Green,1,2024-10-06,ha,5003,WF,Bolivia,moderate
+693,forest fire,Green,1,2024-10-06,ha,5100,WF,Argentina,moderate
+694,earthquake,Green,0,2024-10-06,M,5.1,EQ,Iceland,minor
+696,earthquake,Green,0,2024-10-06,M,4.9,EQ,Ethiopia,minor
+697,forest fire,Green,1,2024-10-06,ha,5168,WF,Brazil,moderate
+698,forest fire,Green,1,2024-10-06,ha,105132,WF,Russia,moderate
+700,earthquake,Green,0,2024-10-06,M,4.7,EQ,New Zealand,minor
+702,forest fire,Green,1,2024-10-06,ha,11636,WF,Australia,moderate
+703,forest fire,Green,1,2024-10-06,ha,11741,WF,Brazil,moderate
+704,forest fire,Green,1,2024-10-06,ha,9420,WF,Australia,moderate
+705,forest fire,Green,1,2024-10-06,ha,10588,WF,Australia,moderate
+706,forest fire,Green,1,2024-10-06,ha,6223,WF,Australia,moderate
+707,forest fire,Green,1,2024-10-06,ha,11261,WF,Australia,moderate
+716,forest fire,Green,1,2024-10-06,ha,57023,WF,Australia,moderate
+717,forest fire,Green,1,2024-10-06,ha,12857,WF,Australia,moderate
+718,forest fire,Green,1,2024-10-06,ha,8862,WF,Australia,moderate
+720,earthquake,Green,0,2024-10-05,M,4.5,EQ,Iran,minor
+721,forest fire,Green,1,2024-10-05,ha,5512,WF,Brazil,moderate
+722,forest fire,Green,1,2024-10-05,ha,7039,WF,Australia,moderate
+730,forest fire,Green,1,2024-10-05,ha,5396,WF,Botswana,moderate
+731,forest fire,Green,1,2024-10-05,ha,7231,WF,Dem. Rep. Congo,moderate
+734,flood,Green,1,2024-10-05,,0,FL,Bosnia and Herz.,moderate
+735,forest fire,Green,1,2024-10-05,ha,6147,WF,Brazil,moderate
+736,flood,Green,1,2024-10-05,,0,FL,New Zealand,moderate
+737,forest fire,Green,1,2024-10-05,ha,5755,WF,Bolivia,moderate
+738,earthquake,Green,0,2024-10-05,M,4.5,EQ,Indonesia,minor
+742,forest fire,Green,1,2024-10-04,ha,6334,WF,Australia,moderate
+743,forest fire,Green,1,2024-10-04,ha,5798,WF,Brazil,moderate
+744,forest fire,Green,1,2024-10-04,ha,6784,WF,Australia,moderate
+746,forest fire,Green,1,2024-10-04,ha,18253,WF,Australia,moderate
+748,forest fire,Green,1,2024-10-04,ha,9974,WF,South Africa,moderate
+749,forest fire,Green,1,2024-10-04,ha,19498,WF,Bolivia,moderate
+750,forest fire,Green,1,2024-10-04,ha,5131,WF,Angola,moderate
+751,forest fire,Green,1,2024-10-04,ha,9849,WF,Australia,moderate
+753,earthquake,Green,0,2024-10-04,M,4.6,EQ,Chile,minor
+756,forest fire,Green,1,2024-10-04,ha,7826,WF,Dem. Rep. Congo,moderate
+757,forest fire,Green,1,2024-10-04,ha,12680,WF,South Africa,moderate
+758,forest fire,Green,1,2024-10-04,ha,11276,WF,Paraguay,moderate
+759,flood,Green,1,2024-10-04,,0,FL,Croatia,moderate
+760,flood,Green,1,2024-10-04,,0,FL,Liberia,moderate
+761,earthquake,Green,0,2024-10-04,M,4.7,EQ,Tanzania,minor
+763,earthquake,Green,0,2024-10-04,M,4.5,EQ,Turkey,minor
+764,forest fire,Green,1,2024-10-04,ha,11602,WF,Australia,moderate
+765,forest fire,Green,1,2024-10-04,ha,9268,WF,Brazil,moderate
+768,forest fire,Green,1,2024-10-04,ha,9921,WF,Brazil,moderate
+769,forest fire,Green,1,2024-10-03,ha,8587,WF,Russia,moderate
+774,forest fire,Green,1,2024-10-03,ha,6194,WF,Brazil,moderate
+775,forest fire,Green,1,2024-10-03,ha,10517,WF,Australia,moderate
+776,forest fire,Green,1,2024-10-03,ha,7124,WF,Bolivia,moderate
+777,forest fire,Green,1,2024-10-03,ha,6562,WF,Brazil,moderate
+783,forest fire,Green,1,2024-10-03,ha,15560,WF,Australia,moderate
+784,forest fire,Green,1,2024-10-03,ha,6501,WF,Australia,moderate
+785,forest fire,Green,1,2024-10-03,ha,7813,WF,Australia,moderate
+787,flood,Green,1,2024-10-03,,0,FL,Thailand,moderate
+788,flood,Green,1,2024-10-03,,0,FL,Iran,moderate
+793,forest fire,Green,1,2024-10-03,ha,11766,WF,Australia,moderate
+794,forest fire,Green,1,2024-10-03,ha,5679,WF,Brazil,moderate
+795,forest fire,Green,1,2024-10-03,ha,9369,WF,Brazil,moderate
+796,forest fire,Green,1,2024-10-03,ha,6423,WF,Brazil,moderate
+797,forest fire,Green,1,2024-10-03,ha,8710,WF,Botswana,moderate
+798,forest fire,Green,1,2024-10-03,ha,15429,WF,Bolivia,moderate
+801,forest fire,Green,1,2024-10-02,ha,5608,WF,Bolivia,moderate
+802,forest fire,Green,1,2024-10-02,ha,6317,WF,Bolivia,moderate
+803,forest fire,Green,1,2024-10-02,ha,5610,WF,Bolivia,moderate
+804,forest fire,Green,1,2024-10-02,ha,9691,WF,Brazil,moderate
+808,forest fire,Green,1,2024-10-02,ha,5489,WF,Mozambique,moderate
+809,forest fire,Green,1,2024-10-02,ha,7681,WF,Brazil,moderate
+810,forest fire,Green,1,2024-10-02,ha,5677,WF,Angola,moderate
+811,forest fire,Green,1,2024-10-02,ha,10359,WF,Brazil,moderate
+812,forest fire,Green,1,2024-10-02,ha,5292,WF,Brazil,moderate
+815,forest fire,Green,1,2024-10-02,ha,5209,WF,Mozambique,moderate
+816,forest fire,Green,1,2024-10-02,ha,9706,WF,Brazil,moderate
+817,forest fire,Green,1,2024-10-02,ha,6382,WF,Bolivia,moderate
+818,forest fire,Green,1,2024-10-02,ha,53453,WF,Australia,moderate
+819,forest fire,Green,1,2024-10-02,ha,11424,WF,Australia,moderate
+820,forest fire,Green,1,2024-10-02,ha,5796,WF,Brazil,moderate
+821,forest fire,Green,1,2024-10-02,ha,9280,WF,Australia,moderate
+822,forest fire,Green,1,2024-10-02,ha,8031,WF,Russia,moderate
+826,earthquake,Green,0,2024-10-02,M,4.5,EQ,Indonesia,minor
+827,forest fire,Green,1,2024-10-02,ha,7565,WF,Mozambique,moderate
+828,forest fire,Green,1,2024-10-02,ha,9321,WF,Australia,moderate
+829,forest fire,Green,1,2024-10-02,ha,9554,WF,Brazil,moderate
+830,forest fire,Green,1,2024-10-02,ha,5496,WF,Brazil,moderate
+833,forest fire,Green,1,2024-10-01,ha,44723,WF,Bolivia,moderate
+834,forest fire,Green,1,2024-10-01,ha,5610,WF,South Africa,moderate
+835,forest fire,Green,1,2024-10-01,ha,13898,WF,Bolivia,moderate
+836,forest fire,Green,1,2024-10-01,ha,10981,WF,Angola,moderate
+843,forest fire,Green,1,2024-10-01,ha,5012,WF,Brazil,moderate
+844,forest fire,Green,1,2024-10-01,ha,5331,WF,Zimbabwe,moderate
+845,forest fire,Green,1,2024-10-01,ha,6450,WF,Mozambique,moderate
+846,forest fire,Green,1,2024-10-01,ha,9669,WF,Brazil,moderate
+847,forest fire,Green,1,2024-10-01,ha,5691,WF,Mozambique,moderate
+848,forest fire,Green,1,2024-10-01,ha,6563,WF,Tanzania,moderate
+849,forest fire,Green,1,2024-10-01,ha,5045,WF,Russia,moderate
+852,forest fire,Green,1,2024-10-01,ha,6492,WF,Mozambique,moderate
+853,forest fire,Green,1,2024-10-01,ha,5809,WF,Mozambique,moderate
+854,forest fire,Green,1,2024-10-01,ha,6465,WF,Mozambique,moderate
+855,forest fire,Green,1,2024-10-01,ha,11002,WF,Angola,moderate
+858,forest fire,Green,1,2024-10-01,ha,5718,WF,Australia,moderate
+859,forest fire,Green,1,2024-10-01,ha,14489,WF,Bolivia,moderate
+860,forest fire,Green,1,2024-10-01,ha,6611,WF,Mozambique,moderate
+861,forest fire,Green,1,2024-10-01,ha,22968,WF,Brazil,moderate
+862,forest fire,Green,1,2024-10-01,ha,10070,WF,Australia,moderate
+863,forest fire,Green,1,2024-10-01,ha,5461,WF,Bolivia,moderate
+864,forest fire,Green,1,2024-10-01,ha,5546,WF,Australia,moderate
+865,forest fire,Green,1,2024-10-01,ha,10291,WF,Brazil,moderate
+866,forest fire,Green,1,2024-10-01,ha,72756,WF,Australia,moderate
+867,forest fire,Green,1,2024-10-01,ha,41691,WF,Brazil,moderate
+873,earthquake,Green,0,2024-10-01,M,5,EQ,Indonesia,minor
+874,forest fire,Green,1,2024-10-01,ha,8033,WF,Brazil,moderate
+875,forest fire,Green,1,2024-10-01,ha,15496,WF,Australia,moderate
+879,forest fire,Green,1,2024-10-01,ha,5327,WF,Angola,moderate
+880,forest fire,Green,1,2024-10-01,ha,24946,WF,Bolivia,moderate
+881,forest fire,Green,1,2024-10-01,ha,14386,WF,Brazil,moderate
+882,forest fire,Green,1,2024-10-01,ha,5916,WF,South Africa,moderate
+883,forest fire,Green,1,2024-10-01,ha,12642,WF,Angola,moderate
+884,forest fire,Green,1,2024-10-01,ha,7220,WF,Australia,moderate
+885,forest fire,Green,1,2024-10-01,ha,5003,WF,Brazil,moderate
+889,forest fire,Green,1,2024-09-30,ha,8668,WF,Mozambique,moderate
+890,forest fire,Green,1,2024-09-30,ha,6660,WF,Mozambique,moderate
+891,forest fire,Green,1,2024-09-30,ha,6275,WF,Zambia,moderate
+892,forest fire,Green,1,2024-09-30,ha,5053,WF,Mozambique,moderate
+893,forest fire,Green,1,2024-09-30,ha,6953,WF,Mozambique,moderate
+894,forest fire,Green,1,2024-09-30,ha,9876,WF,Bolivia,moderate
+895,forest fire,Green,1,2024-09-30,ha,7666,WF,Brazil,moderate
+896,forest fire,Green,1,2024-09-30,ha,8020,WF,Russia,moderate
+898,forest fire,Green,1,2024-09-30,ha,7744,WF,Zambia,moderate
+899,forest fire,Green,1,2024-09-30,ha,6191,WF,Tanzania,moderate
+900,forest fire,Green,1,2024-09-30,ha,29090,WF,Australia,moderate
+901,forest fire,Green,1,2024-09-30,ha,6339,WF,Mozambique,moderate
+902,forest fire,Green,1,2024-09-30,ha,11704,WF,Bolivia,moderate
+903,forest fire,Green,1,2024-09-30,ha,14204,WF,Mozambique,moderate
+904,forest fire,Green,1,2024-09-30,ha,9016,WF,Australia,moderate
+905,forest fire,Green,1,2024-09-30,ha,13765,WF,Australia,moderate
+907,forest fire,Green,1,2024-09-30,ha,31155,WF,Australia,moderate
+908,forest fire,Green,1,2024-09-30,ha,6571,WF,Australia,moderate
+909,forest fire,Green,1,2024-09-30,ha,13664,WF,Australia,moderate
+910,forest fire,Green,1,2024-09-30,ha,23369,WF,United States of America,moderate
+911,forest fire,Green,1,2024-09-30,ha,12627,WF,Mozambique,moderate
+912,forest fire,Orange,2,2024-09-30,ha,11791,WF,Greece,severe
+913,forest fire,Green,1,2024-09-30,ha,49389,WF,Australia,moderate
+914,forest fire,Green,1,2024-09-30,ha,8876,WF,Brazil,moderate
+915,forest fire,Green,1,2024-09-30,ha,7318,WF,Brazil,moderate
+916,forest fire,Green,1,2024-09-30,ha,7781,WF,Australia,moderate
+917,forest fire,Green,1,2024-09-30,ha,5937,WF,Brazil,moderate
+918,forest fire,Green,1,2024-09-30,ha,15467,WF,Brazil,moderate
+919,forest fire,Green,1,2024-09-30,ha,24354,WF,Botswana,moderate
+920,forest fire,Green,1,2024-09-30,ha,31486,WF,Australia,moderate
+921,forest fire,Green,1,2024-09-30,ha,10285,WF,Angola,moderate
+922,forest fire,Green,1,2024-09-30,ha,16637,WF,Australia,moderate
+923,forest fire,Green,1,2024-09-30,ha,10991,WF,United States of America,moderate
+925,forest fire,Green,1,2024-09-29,ha,7306,WF,Mozambique,moderate
+926,forest fire,Green,1,2024-09-29,ha,6114,WF,Mozambique,moderate
+927,forest fire,Green,1,2024-09-29,ha,6029,WF,Zambia,moderate
+928,forest fire,Green,1,2024-09-29,ha,5343,WF,Mozambique,moderate
+929,forest fire,Green,1,2024-09-29,ha,9514,WF,Mozambique,moderate
+930,forest fire,Green,1,2024-09-29,ha,8051,WF,Tanzania,moderate
+931,forest fire,Green,1,2024-09-29,ha,6740,WF,Australia,moderate
+932,forest fire,Green,1,2024-09-29,ha,6310,WF,Zambia,moderate
+933,forest fire,Green,1,2024-09-29,ha,5278,WF,Madagascar,moderate
+934,forest fire,Green,1,2024-09-29,ha,8678,WF,Mozambique,moderate
+935,forest fire,Green,1,2024-09-29,ha,5990,WF,Mozambique,moderate
+936,forest fire,Green,1,2024-09-29,ha,33142,WF,Bolivia,moderate
+938,earthquake,Green,0,2024-09-29,M,4.7,EQ,Colombia,minor
+941,forest fire,Green,1,2024-09-29,ha,5018,WF,Brazil,moderate
+943,earthquake,Green,0,2024-09-29,M,4.5,EQ,Afghanistan,minor
+945,forest fire,Green,1,2024-09-28,ha,12037,WF,Angola,moderate
+946,forest fire,Green,1,2024-09-28,ha,10073,WF,Brazil,moderate
+947,forest fire,Green,1,2024-09-28,ha,12651,WF,Australia,moderate
+948,forest fire,Green,1,2024-09-28,ha,8059,WF,Bolivia,moderate
+952,forest fire,Green,1,2024-09-28,ha,5405,WF,Tanzania,moderate
+953,forest fire,Green,1,2024-09-28,ha,5317,WF,Angola,moderate
+954,forest fire,Green,1,2024-09-28,ha,5002,WF,Australia,moderate
+958,forest fire,Green,1,2024-09-28,ha,9956,WF,South Africa,moderate
+959,forest fire,Green,1,2024-09-28,ha,6225,WF,Brazil,moderate
+960,forest fire,Green,1,2024-09-28,ha,10720,WF,Brazil,moderate
+961,forest fire,Green,1,2024-09-28,ha,5394,WF,Brazil,moderate
+962,earthquake,Green,0,2024-09-28,M,4.6,EQ,Tajikistan,minor
+963,earthquake,Green,0,2024-09-28,M,4.6,EQ,Turkmenistan,minor
+966,forest fire,Green,1,2024-09-28,ha,5829,WF,Brazil,moderate
+967,forest fire,Green,1,2024-09-28,ha,15132,WF,Brazil,moderate
+968,forest fire,Green,1,2024-09-28,ha,7981,WF,Brazil,moderate
+970,earthquake,Green,0,2024-09-28,M,4.5,EQ,Ethiopia,minor
+974,earthquake,Green,0,2024-09-28,M,4.6,EQ,Ethiopia,minor
+975,forest fire,Green,1,2024-09-27,ha,5557,WF,Brazil,moderate
+976,earthquake,Green,0,2024-09-27,M,4.6,EQ,Russia,minor
+979,forest fire,Green,1,2024-09-27,ha,8054,WF,Zambia,moderate
+981,forest fire,Green,1,2024-09-27,ha,16162,WF,South Africa,moderate
+988,forest fire,Green,1,2024-09-27,ha,5933,WF,Australia,moderate
+989,forest fire,Green,1,2024-09-27,ha,6655,WF,South Africa,moderate
+990,forest fire,Green,1,2024-09-27,ha,5912,WF,South Africa,moderate
+992,earthquake,Green,0,2024-09-27,M,4.9,EQ,Ethiopia,minor
+998,earthquake,Green,0,2024-09-26,M,5,EQ,Mexico,minor
+999,forest fire,Green,1,2024-09-26,ha,5293,WF,Angola,moderate
+1000,forest fire,Green,1,2024-09-26,ha,8150,WF,South Africa,moderate
+1001,forest fire,Green,1,2024-09-26,ha,5127,WF,Bolivia,moderate
+1002,forest fire,Green,1,2024-09-26,ha,6120,WF,South Africa,moderate
+1003,forest fire,Green,1,2024-09-26,ha,8607,WF,Dem. Rep. Congo,moderate
+1004,forest fire,Green,1,2024-09-26,ha,5242,WF,Mozambique,moderate
+1005,forest fire,Green,1,2024-09-26,ha,8665,WF,Brazil,moderate
+1006,forest fire,Green,1,2024-09-26,ha,12097,WF,Tanzania,moderate
+1007,forest fire,Green,1,2024-09-26,ha,12627,WF,Brazil,moderate
+1008,forest fire,Green,1,2024-09-26,ha,6037,WF,South Africa,moderate
+1010,earthquake,Green,0,2024-09-26,M,4.5,EQ,Peru,minor
+1014,forest fire,Green,1,2024-09-26,ha,5468,WF,Brazil,moderate
+1015,forest fire,Green,1,2024-09-26,ha,8118,WF,Brazil,moderate
+1016,forest fire,Green,1,2024-09-26,ha,7274,WF,Russia,moderate
+1017,forest fire,Green,1,2024-09-26,ha,7283,WF,Brazil,moderate
+1018,forest fire,Green,1,2024-09-26,ha,6973,WF,Bolivia,moderate
+1019,forest fire,Green,1,2024-09-26,ha,5106,WF,Bolivia,moderate
+1020,flood,Green,1,2024-09-26,,0,FL,Albania,moderate
+1022,forest fire,Green,1,2024-09-26,ha,6228,WF,Brazil,moderate
+1023,forest fire,Green,1,2024-09-26,ha,21336,WF,Brazil,moderate
+1025,earthquake,Green,0,2024-09-26,M,4.6,EQ,Indonesia,minor
+1028,forest fire,Green,1,2024-09-25,ha,7036,WF,Brazil,moderate
+1029,forest fire,Green,1,2024-09-25,ha,5212,WF,Brazil,moderate
+1030,forest fire,Green,1,2024-09-25,ha,8591,WF,Australia,moderate
+1031,forest fire,Green,1,2024-09-25,ha,6802,WF,Australia,moderate
+1032,forest fire,Green,1,2024-09-25,ha,5583,WF,Brazil,moderate
+1033,forest fire,Green,1,2024-09-25,ha,5555,WF,Tanzania,moderate
+1036,earthquake,Green,0,2024-09-25,M,4.6,EQ,Turkey,minor
+1037,forest fire,Green,1,2024-09-25,ha,5526,WF,Bolivia,moderate
+1038,forest fire,Green,1,2024-09-25,ha,6492,WF,Brazil,moderate
+1040,forest fire,Green,1,2024-09-25,ha,5294,WF,Brazil,moderate
+1041,flood,Green,1,2024-09-25,,0,FL,Tunisia,moderate
+1044,forest fire,Green,1,2024-09-24,ha,9584,WF,Bolivia,moderate
+1045,forest fire,Green,1,2024-09-24,ha,5717,WF,Brazil,moderate
+1046,forest fire,Green,1,2024-09-24,ha,7673,WF,Brazil,moderate
+1049,forest fire,Green,1,2024-09-24,ha,5946,WF,Brazil,moderate
+1050,forest fire,Green,1,2024-09-24,ha,5945,WF,Bolivia,moderate
+1051,forest fire,Green,1,2024-09-24,ha,5484,WF,Brazil,moderate
+1052,forest fire,Green,1,2024-09-24,ha,5332,WF,Australia,moderate
+1053,forest fire,Green,1,2024-09-24,ha,5279,WF,Angola,moderate
+1054,forest fire,Green,1,2024-09-24,ha,5274,WF,Brazil,moderate
+1055,forest fire,Green,1,2024-09-24,ha,6813,WF,Brazil,moderate
+1056,forest fire,Green,1,2024-09-24,ha,5235,WF,Bolivia,moderate
+1057,forest fire,Green,1,2024-09-24,ha,6717,WF,Brazil,moderate
+1058,forest fire,Green,1,2024-09-24,ha,12273,WF,Angola,moderate
+1059,forest fire,Green,1,2024-09-24,ha,11337,WF,Angola,moderate
+1060,forest fire,Green,1,2024-09-24,ha,5628,WF,Bolivia,moderate
+1061,forest fire,Green,1,2024-09-24,ha,5772,WF,Australia,moderate
+1062,forest fire,Green,1,2024-09-24,ha,5010,WF,Brazil,moderate
+1063,forest fire,Green,1,2024-09-24,ha,7063,WF,Australia,moderate
+1066,forest fire,Green,1,2024-09-24,ha,5166,WF,Russia,moderate
+1070,earthquake,Green,0,2024-09-24,M,4.6,EQ,Myanmar,minor
+1071,earthquake,Green,0,2024-09-24,M,5,EQ,Papua New Guinea,minor
+1074,forest fire,Green,1,2024-09-24,ha,6025,WF,Brazil,moderate
+1075,forest fire,Green,1,2024-09-24,ha,5385,WF,Brazil,moderate
+1076,forest fire,Green,1,2024-09-24,ha,6660,WF,Brazil,moderate
+1077,forest fire,Green,1,2024-09-24,ha,9535,WF,Bolivia,moderate
+1078,forest fire,Green,1,2024-09-24,ha,8558,WF,Australia,moderate
+1080,forest fire,Green,1,2024-09-24,ha,11256,WF,Namibia,moderate
+1081,forest fire,Green,1,2024-09-24,ha,10056,WF,Brazil,moderate
+1082,forest fire,Green,1,2024-09-24,ha,15209,WF,Brazil,moderate
+1083,forest fire,Green,1,2024-09-24,ha,6930,WF,Brazil,moderate
+1084,forest fire,Green,1,2024-09-24,ha,12614,WF,Brazil,moderate
+1085,forest fire,Green,1,2024-09-24,ha,7077,WF,Brazil,moderate
+1086,earthquake,Green,0,2024-09-24,M,5,EQ,Argentina,minor
+1093,forest fire,Green,1,2024-09-23,ha,6448,WF,Angola,moderate
+1094,forest fire,Green,1,2024-09-23,ha,5783,WF,Angola,moderate
+1095,forest fire,Green,1,2024-09-23,ha,20344,WF,Australia,moderate
+1097,forest fire,Green,1,2024-09-23,ha,11276,WF,Brazil,moderate
+1098,forest fire,Green,1,2024-09-23,ha,8494,WF,Tanzania,moderate
+1100,earthquake,Green,0,2024-09-23,M,4.5,EQ,China,minor
+1101,forest fire,Green,1,2024-09-23,ha,8430,WF,Argentina,moderate
+1103,flood,Green,1,2024-09-23,,0,FL,Japan,moderate
+1104,forest fire,Green,1,2024-09-23,ha,7062,WF,Brazil,moderate
+1105,forest fire,Green,1,2024-09-23,ha,7026,WF,Brazil,moderate
+1106,forest fire,Green,1,2024-09-23,ha,6146,WF,Brazil,moderate
+1107,forest fire,Green,1,2024-09-23,ha,5655,WF,Brazil,moderate
+1108,forest fire,Green,1,2024-09-23,ha,7985,WF,Australia,moderate
+1109,forest fire,Green,1,2024-09-23,ha,9783,WF,Brazil,moderate
+1110,flood,Green,1,2024-09-23,,0,FL,United Kingdom,moderate
+1113,earthquake,Green,0,2024-09-23,M,4.7,EQ,Papua New Guinea,minor
+1115,earthquake,Green,0,2024-09-23,M,5.4,EQ,Chile,minor
+1117,forest fire,Green,1,2024-09-22,ha,19973,WF,Brazil,moderate
+1118,forest fire,Green,1,2024-09-22,ha,30998,WF,Bolivia,moderate
+1122,earthquake,Green,0,2024-09-22,M,4.9,EQ,Bolivia,minor
+1124,forest fire,Green,1,2024-09-22,ha,7927,WF,Australia,moderate
+1125,forest fire,Green,1,2024-09-22,ha,24022,WF,Brazil,moderate
+1126,forest fire,Green,1,2024-09-22,ha,6269,WF,Brazil,moderate
+1127,forest fire,Green,1,2024-09-22,ha,5577,WF,Australia,moderate
+1128,forest fire,Green,1,2024-09-22,ha,11361,WF,Bolivia,moderate
+1129,forest fire,Green,1,2024-09-22,ha,7008,WF,Bolivia,moderate
+1130,forest fire,Green,1,2024-09-22,ha,10626,WF,Angola,moderate
+1131,forest fire,Green,1,2024-09-22,ha,8560,WF,Australia,moderate
+1132,forest fire,Green,1,2024-09-22,ha,26034,WF,Angola,moderate
+1133,earthquake,Green,0,2024-09-22,M,4.8,EQ,Iran,minor
+1134,forest fire,Green,1,2024-09-22,ha,6459,WF,Brazil,moderate
+1137,forest fire,Green,1,2024-09-22,ha,5808,WF,Australia,moderate
+1138,forest fire,Green,1,2024-09-22,ha,8453,WF,Brazil,moderate
+1139,forest fire,Green,1,2024-09-22,ha,7714,WF,Angola,moderate
+1140,forest fire,Green,1,2024-09-22,ha,7676,WF,Namibia,moderate
+1142,earthquake,Green,0,2024-09-22,M,4.6,EQ,Iran,minor
+1143,forest fire,Green,1,2024-09-21,ha,6280,WF,Angola,moderate
+1144,forest fire,Green,1,2024-09-21,ha,5684,WF,Angola,moderate
+1145,forest fire,Green,1,2024-09-21,ha,9917,WF,Brazil,moderate
+1146,forest fire,Green,1,2024-09-21,ha,7929,WF,Bolivia,moderate
+1147,forest fire,Green,1,2024-09-21,ha,15624,WF,Angola,moderate
+1148,earthquake,Green,0,2024-09-21,M,6,EQ,Argentina,minor
+1149,earthquake,Green,0,2024-09-21,M,4.7,EQ,Mexico,minor
+1150,forest fire,Green,1,2024-09-21,ha,5106,WF,Mozambique,moderate
+1151,forest fire,Green,1,2024-09-21,ha,7834,WF,Brazil,moderate
+1152,forest fire,Green,1,2024-09-21,ha,6610,WF,Brazil,moderate
+1153,forest fire,Green,1,2024-09-21,ha,8009,WF,Brazil,moderate
+1154,forest fire,Green,1,2024-09-21,ha,5787,WF,Brazil,moderate
+1158,earthquake,Green,0,2024-09-21,M,4.5,EQ,Afghanistan,minor
+1159,forest fire,Green,1,2024-09-21,ha,9086,WF,Russia,moderate
+1160,forest fire,Green,1,2024-09-21,ha,7035,WF,Angola,moderate
+1161,forest fire,Green,1,2024-09-21,ha,6404,WF,Australia,moderate
+1162,forest fire,Green,1,2024-09-21,ha,5207,WF,Brazil,moderate
+1163,forest fire,Green,1,2024-09-21,ha,6966,WF,Bolivia,moderate
+1164,forest fire,Green,1,2024-09-21,ha,6722,WF,Brazil,moderate
+1165,forest fire,Green,1,2024-09-21,ha,7026,WF,Brazil,moderate
+1166,earthquake,Green,0,2024-09-21,M,4.8,EQ,Taiwan,minor
+1167,forest fire,Green,1,2024-09-21,ha,5995,WF,Mozambique,moderate
+1168,forest fire,Green,1,2024-09-21,ha,5148,WF,Bolivia,moderate
+1169,forest fire,Green,1,2024-09-21,ha,13898,WF,Australia,moderate
+1170,forest fire,Green,1,2024-09-21,ha,10715,WF,Bolivia,moderate
+1171,forest fire,Green,1,2024-09-21,ha,31719,WF,Bolivia,moderate
+1172,forest fire,Green,1,2024-09-21,ha,22400,WF,Brazil,moderate
+1173,forest fire,Green,1,2024-09-21,ha,23959,WF,Australia,moderate
+1174,forest fire,Green,1,2024-09-21,ha,9721,WF,Bolivia,moderate
+1176,earthquake,Green,0,2024-09-20,M,4.6,EQ,Indonesia,minor
+1177,earthquake,Green,0,2024-09-20,M,4.6,EQ,Argentina,minor
+1178,forest fire,Green,1,2024-09-20,ha,9538,WF,Brazil,moderate
+1179,forest fire,Green,1,2024-09-20,ha,10245,WF,Bolivia,moderate
+1180,forest fire,Green,1,2024-09-20,ha,5537,WF,Brazil,moderate
+1181,forest fire,Green,1,2024-09-20,ha,54057,WF,Argentina,moderate
+1182,earthquake,Green,0,2024-09-20,M,4.5,EQ,Iran,minor
+1186,forest fire,Green,1,2024-09-20,ha,5473,WF,Mozambique,moderate
+1187,forest fire,Green,1,2024-09-20,ha,5885,WF,Australia,moderate
+1188,forest fire,Green,1,2024-09-20,ha,71970,WF,Australia,moderate
+1189,forest fire,Green,1,2024-09-20,ha,5892,WF,Australia,moderate
+1190,forest fire,Green,1,2024-09-20,ha,5545,WF,Brazil,moderate
+1194,forest fire,Green,1,2024-09-20,ha,5683,WF,Mozambique,moderate
+1195,forest fire,Green,1,2024-09-20,ha,7558,WF,Botswana,moderate
+1198,forest fire,Green,1,2024-09-20,ha,5664,WF,Mozambique,moderate
+1201,forest fire,Green,1,2024-09-20,ha,6193,WF,Botswana,moderate
+1202,forest fire,Green,1,2024-09-20,ha,13221,WF,South Africa,moderate
+1203,forest fire,Green,1,2024-09-20,ha,34674,WF,Botswana,moderate
+1204,forest fire,Green,1,2024-09-20,ha,11343,WF,Brazil,moderate
+1205,forest fire,Green,1,2024-09-20,ha,5359,WF,Botswana,moderate
+1208,forest fire,Green,1,2024-09-20,ha,8197,WF,Brazil,moderate
+1209,forest fire,Green,1,2024-09-20,ha,11281,WF,Australia,moderate
+1210,forest fire,Green,1,2024-09-20,ha,7301,WF,Botswana,moderate
+1211,forest fire,Green,1,2024-09-20,ha,14312,WF,Botswana,moderate
+1212,forest fire,Green,1,2024-09-20,ha,7307,WF,Botswana,moderate
+1213,forest fire,Green,1,2024-09-20,ha,9788,WF,Botswana,moderate
+1214,earthquake,Green,0,2024-09-20,M,4.5,EQ,Chile,minor
+1216,forest fire,Green,1,2024-09-19,ha,16367,WF,Argentina,moderate
+1217,forest fire,Green,1,2024-09-19,ha,57951,WF,Argentina,moderate
+1218,forest fire,Green,1,2024-09-19,ha,5748,WF,Mozambique,moderate
+1219,forest fire,Green,1,2024-09-19,ha,5153,WF,Mozambique,moderate
+1220,forest fire,Green,1,2024-09-19,ha,5106,WF,Angola,moderate
+1221,forest fire,Green,1,2024-09-19,ha,5224,WF,Australia,moderate
+1222,forest fire,Green,1,2024-09-19,ha,5469,WF,Botswana,moderate
+1225,forest fire,Green,1,2024-09-19,ha,7264,WF,Mozambique,moderate
+1226,forest fire,Green,1,2024-09-19,ha,10158,WF,Brazil,moderate
+1227,forest fire,Green,1,2024-09-19,ha,7539,WF,Botswana,moderate
+1229,forest fire,Green,1,2024-09-19,ha,5660,WF,Botswana,moderate
+1233,forest fire,Green,1,2024-09-19,ha,32061,WF,Brazil,moderate
+1234,forest fire,Green,1,2024-09-19,ha,8175,WF,Brazil,moderate
+1235,forest fire,Green,1,2024-09-19,ha,6617,WF,Bolivia,moderate
+1236,flood,Green,1,2024-09-19,,0,FL,Romania,moderate
+1238,flood,Green,1,2024-09-19,,0,FL,Spain,moderate
+1240,forest fire,Green,1,2024-09-19,ha,5957,WF,Brazil,moderate
+1241,forest fire,Green,1,2024-09-19,ha,7500,WF,Botswana,moderate
+1242,forest fire,Green,1,2024-09-18,ha,5354,WF,Brazil,moderate
+1243,forest fire,Green,1,2024-09-18,ha,8802,WF,Brazil,moderate
+1244,forest fire,Green,1,2024-09-18,ha,7416,WF,Brazil,moderate
+1246,forest fire,Green,1,2024-09-18,ha,5246,WF,Brazil,moderate
+1247,forest fire,Green,1,2024-09-18,ha,5025,WF,Mozambique,moderate
+1248,forest fire,Green,1,2024-09-18,ha,5941,WF,Angola,moderate
+1249,forest fire,Green,1,2024-09-18,ha,5441,WF,Mozambique,moderate
+1250,forest fire,Green,1,2024-09-18,ha,6092,WF,Mozambique,moderate
+1251,forest fire,Green,1,2024-09-18,ha,6627,WF,Mozambique,moderate
+1252,forest fire,Green,1,2024-09-18,ha,5136,WF,Mozambique,moderate
+1253,forest fire,Green,1,2024-09-18,ha,7738,WF,Portugal,moderate
+1255,forest fire,Green,1,2024-09-18,ha,6390,WF,Mozambique,moderate
+1256,forest fire,Green,1,2024-09-18,ha,5110,WF,Mozambique,moderate
+1257,forest fire,Green,1,2024-09-18,ha,7044,WF,Mozambique,moderate
+1258,forest fire,Green,1,2024-09-18,ha,5220,WF,Mozambique,moderate
+1259,forest fire,Green,1,2024-09-18,ha,21759,WF,Tanzania,moderate
+1260,earthquake,Green,0,2024-09-18,M,4.9,EQ,China,minor
+1262,forest fire,Green,1,2024-09-18,ha,7593,WF,Mozambique,moderate
+1263,forest fire,Green,1,2024-09-18,ha,6069,WF,Mozambique,moderate
+1267,forest fire,Green,1,2024-09-18,ha,5274,WF,Zambia,moderate
+1268,forest fire,Green,1,2024-09-18,ha,5362,WF,Tanzania,moderate
+1269,forest fire,Orange,2,2024-09-18,ha,42443,WF,Portugal,severe
+1270,forest fire,Green,1,2024-09-18,ha,5389,WF,Portugal,moderate
+1271,forest fire,Green,1,2024-09-18,ha,6518,WF,Brazil,moderate
+1272,forest fire,Green,1,2024-09-18,ha,14949,WF,Brazil,moderate
+1273,forest fire,Green,1,2024-09-18,ha,7966,WF,Portugal,moderate
+1274,forest fire,Green,1,2024-09-18,ha,14560,WF,Botswana,moderate
+1275,forest fire,Green,1,2024-09-18,ha,6269,WF,Brazil,moderate
+1276,earthquake,Green,0,2024-09-18,M,5,EQ,Indonesia,minor
+1277,forest fire,Green,1,2024-09-18,ha,11407,WF,Dem. Rep. Congo,moderate
+1278,forest fire,Green,1,2024-09-18,ha,5567,WF,Portugal,moderate
+1279,forest fire,Green,1,2024-09-18,ha,14530,WF,Namibia,moderate
+1280,forest fire,Green,1,2024-09-18,ha,6758,WF,Portugal,moderate
+1281,forest fire,Green,1,2024-09-18,ha,12359,WF,Portugal,moderate
+1283,earthquake,Green,0,2024-09-17,M,4.6,EQ,Papua New Guinea,minor
+1284,forest fire,Green,1,2024-09-17,ha,7930,WF,Mozambique,moderate
+1285,forest fire,Green,1,2024-09-17,ha,5306,WF,Bolivia,moderate
+1286,forest fire,Green,1,2024-09-17,ha,5295,WF,Mozambique,moderate
+1287,forest fire,Green,1,2024-09-17,ha,7604,WF,Dem. Rep. Congo,moderate
+1288,forest fire,Green,1,2024-09-17,ha,7441,WF,Brazil,moderate
+1289,forest fire,Green,1,2024-09-17,ha,6833,WF,Mozambique,moderate
+1290,forest fire,Green,1,2024-09-17,ha,5221,WF,Dem. Rep. Congo,moderate
+1291,forest fire,Green,1,2024-09-17,ha,6659,WF,Zambia,moderate
+1294,earthquake,Green,0,2024-09-17,M,4.7,EQ,Tajikistan,minor
+1295,forest fire,Green,1,2024-09-17,ha,6444,WF,Mozambique,moderate
+1296,forest fire,Green,1,2024-09-17,ha,5399,WF,Mozambique,moderate
+1297,Drought,Green,1,2024-09-17,km2,9683,DR,United States of America,moderate
+1298,forest fire,Green,1,2024-09-17,ha,6990,WF,Zambia,moderate
+1299,forest fire,Green,1,2024-09-17,ha,6467,WF,Ukraine,moderate
+1300,earthquake,Green,0,2024-09-17,M,4.8,EQ,Russia,minor
+1301,forest fire,Green,1,2024-09-17,ha,7653,WF,Mozambique,moderate
+1304,earthquake,Green,0,2024-09-17,M,4.9,EQ,China,minor
+1305,forest fire,Green,1,2024-09-17,ha,6030,WF,Mozambique,moderate
+1306,forest fire,Green,1,2024-09-17,ha,5537,WF,Mozambique,moderate
+1307,forest fire,Green,1,2024-09-17,ha,5492,WF,Mozambique,moderate
+1308,forest fire,Green,1,2024-09-17,ha,5914,WF,Mozambique,moderate
+1309,forest fire,Green,1,2024-09-17,ha,12107,WF,Brazil,moderate
+1310,forest fire,Orange,2,2024-09-17,ha,25621,WF,Portugal,severe
+1311,forest fire,Green,1,2024-09-17,ha,6191,WF,Zimbabwe,moderate
+1312,forest fire,Green,1,2024-09-17,ha,9861,WF,Portugal,moderate
+1313,forest fire,Green,1,2024-09-17,ha,8618,WF,Portugal,moderate
+1316,forest fire,Green,1,2024-09-17,ha,7760,WF,Angola,moderate
+1319,earthquake,Green,0,2024-09-17,M,4.8,EQ,United States of America,minor
+1320,earthquake,Green,0,2024-09-16,M,4.5,EQ,Chile,minor
+1321,forest fire,Green,1,2024-09-16,ha,14422,WF,Namibia,moderate
+1322,forest fire,Green,1,2024-09-16,ha,8833,WF,Botswana,moderate
+1323,forest fire,Green,1,2024-09-16,ha,11108,WF,Bolivia,moderate
+1325,forest fire,Green,1,2024-09-16,ha,5771,WF,Zambia,moderate
+1326,forest fire,Green,1,2024-09-16,ha,5147,WF,Mozambique,moderate
+1327,forest fire,Green,1,2024-09-16,ha,5138,WF,Zambia,moderate
+1328,forest fire,Green,1,2024-09-16,ha,8871,WF,Australia,moderate
+1329,forest fire,Green,1,2024-09-16,ha,5259,WF,Angola,moderate
+1331,forest fire,Green,1,2024-09-16,ha,5259,WF,Zambia,moderate
+1334,earthquake,Green,0,2024-09-16,M,4.9,EQ,Indonesia,minor
+1337,forest fire,Green,1,2024-09-16,ha,6290,WF,Mozambique,moderate
+1338,forest fire,Green,1,2024-09-16,ha,5189,WF,Tanzania,moderate
+1339,forest fire,Green,1,2024-09-16,ha,7794,WF,Mozambique,moderate
+1340,forest fire,Green,1,2024-09-16,ha,6844,WF,Mozambique,moderate
+1341,forest fire,Green,1,2024-09-16,ha,6096,WF,Mozambique,moderate
+1342,forest fire,Green,1,2024-09-16,ha,10469,WF,Mozambique,moderate
+1343,forest fire,Green,1,2024-09-16,ha,7907,WF,Namibia,moderate
+1344,forest fire,Green,1,2024-09-16,ha,5467,WF,Angola,moderate
+1345,forest fire,Green,1,2024-09-16,ha,5094,WF,Mozambique,moderate
+1346,forest fire,Green,1,2024-09-16,ha,9901,WF,Brazil,moderate
+1347,forest fire,Green,1,2024-09-16,ha,6209,WF,Tanzania,moderate
+1348,earthquake,Green,0,2024-09-16,M,5.2,EQ,Romania,minor
+1351,forest fire,Green,1,2024-09-16,ha,7078,WF,Mozambique,moderate
+1352,forest fire,Green,1,2024-09-16,ha,8447,WF,Zambia,moderate
+1353,forest fire,Green,1,2024-09-16,ha,9344,WF,Russia,moderate
+1354,forest fire,Green,1,2024-09-16,ha,6324,WF,Tanzania,moderate
+1355,forest fire,Green,1,2024-09-16,ha,6197,WF,Australia,moderate
+1358,forest fire,Green,1,2024-09-16,ha,5356,WF,Brazil,moderate
+1359,forest fire,Green,1,2024-09-16,ha,6216,WF,Brazil,moderate
+1360,forest fire,Green,1,2024-09-16,ha,7450,WF,Australia,moderate
+1367,earthquake,Green,0,2024-09-16,M,4.5,EQ,Peru,minor
+1368,earthquake,Green,0,2024-09-16,M,5,EQ,Indonesia,minor
+1369,earthquake,Green,0,2024-09-16,M,4.9,EQ,Papua New Guinea,minor
+1371,earthquake,Green,0,2024-09-16,M,4.6,EQ,Japan,minor
+1373,earthquake,Green,0,2024-09-16,M,5.5,EQ,Indonesia,minor
+1375,forest fire,Green,1,2024-09-15,ha,8719,WF,Brazil,moderate
+1376,forest fire,Green,1,2024-09-15,ha,8600,WF,Brazil,moderate
+1377,forest fire,Green,1,2024-09-15,ha,7574,WF,Brazil,moderate
+1378,forest fire,Green,1,2024-09-15,ha,5465,WF,Tanzania,moderate
+1379,forest fire,Green,1,2024-09-15,ha,5419,WF,Mozambique,moderate
+1380,forest fire,Green,1,2024-09-15,ha,6100,WF,Zambia,moderate
+1381,forest fire,Green,1,2024-09-15,ha,11933,WF,Brazil,moderate
+1382,forest fire,Green,1,2024-09-15,ha,5490,WF,Botswana,moderate
+1383,forest fire,Green,1,2024-09-15,ha,20126,WF,Zambia,moderate
+1384,forest fire,Green,1,2024-09-15,ha,6633,WF,Tanzania,moderate
+1385,forest fire,Green,1,2024-09-15,ha,7624,WF,Australia,moderate
+1386,forest fire,Green,1,2024-09-15,ha,11371,WF,Brazil,moderate
+1387,forest fire,Green,1,2024-09-15,ha,5694,WF,Zambia,moderate
+1388,forest fire,Green,1,2024-09-15,ha,6476,WF,Mozambique,moderate
+1389,forest fire,Green,1,2024-09-15,ha,5401,WF,Tanzania,moderate
+1390,forest fire,Green,1,2024-09-15,ha,7038,WF,Tanzania,moderate
+1391,forest fire,Green,1,2024-09-15,ha,5428,WF,Brazil,moderate
+1392,flood,Green,1,2024-09-15,,0,FL,Poland,moderate
+1393,forest fire,Green,1,2024-09-15,ha,5064,WF,Brazil,moderate
+1394,forest fire,Green,1,2024-09-15,ha,10549,WF,Mozambique,moderate
+1395,forest fire,Green,1,2024-09-15,ha,8005,WF,Mozambique,moderate
+1396,forest fire,Green,1,2024-09-15,ha,6620,WF,Brazil,moderate
+1399,earthquake,Green,0,2024-09-15,M,4.8,EQ,Argentina,minor
+1400,earthquake,Green,0,2024-09-15,M,4.5,EQ,United States of America,minor
+1402,forest fire,Green,1,2024-09-14,ha,8598,WF,Botswana,moderate
+1403,forest fire,Green,1,2024-09-14,ha,7338,WF,Australia,moderate
+1404,earthquake,Green,0,2024-09-14,M,5.1,EQ,Indonesia,minor
+1406,forest fire,Green,1,2024-09-14,ha,6496,WF,Tanzania,moderate
+1407,forest fire,Green,1,2024-09-14,ha,6467,WF,Brazil,moderate
+1408,forest fire,Green,1,2024-09-14,ha,5111,WF,Mozambique,moderate
+1409,forest fire,Green,1,2024-09-14,ha,5080,WF,Australia,moderate
+1410,forest fire,Green,1,2024-09-14,ha,6768,WF,Brazil,moderate
+1411,forest fire,Green,1,2024-09-14,ha,5229,WF,Australia,moderate
+1412,forest fire,Green,1,2024-09-14,ha,9010,WF,Australia,moderate
+1413,forest fire,Green,1,2024-09-14,ha,5813,WF,Angola,moderate
+1414,forest fire,Green,1,2024-09-14,ha,6474,WF,Brazil,moderate
+1415,forest fire,Green,1,2024-09-14,ha,7247,WF,Zambia,moderate
+1416,forest fire,Green,1,2024-09-14,ha,6333,WF,Colombia,moderate
+1417,forest fire,Green,1,2024-09-14,ha,11076,WF,Australia,moderate
+1418,forest fire,Green,1,2024-09-14,ha,10088,WF,Brazil,moderate
+1419,forest fire,Green,1,2024-09-14,ha,8888,WF,Brazil,moderate
+1420,forest fire,Green,1,2024-09-14,ha,6366,WF,Brazil,moderate
+1423,flood,Green,1,2024-09-14,,0,FL,Slovenia,moderate
+1424,forest fire,Green,1,2024-09-14,ha,11939,WF,Mozambique,moderate
+1425,forest fire,Green,1,2024-09-14,ha,5836,WF,Brazil,moderate
+1426,forest fire,Green,1,2024-09-14,ha,9374,WF,Brazil,moderate
+1429,forest fire,Green,1,2024-09-14,ha,6104,WF,Brazil,moderate
+1430,forest fire,Green,1,2024-09-14,ha,5649,WF,Brazil,moderate
+1431,earthquake,Green,0,2024-09-14,M,5.1,EQ,Vanuatu,minor
+1435,forest fire,Green,1,2024-09-13,ha,8631,WF,Bolivia,moderate
+1436,forest fire,Green,1,2024-09-13,ha,13393,WF,Dem. Rep. Congo,moderate
+1437,forest fire,Green,1,2024-09-13,ha,59506,WF,Australia,moderate
+1438,forest fire,Green,1,2024-09-13,ha,12015,WF,Bolivia,moderate
+1443,earthquake,Green,0,2024-09-13,M,4.9,EQ,China,minor
+1444,forest fire,Green,1,2024-09-13,ha,5689,WF,Mozambique,moderate
+1445,forest fire,Green,1,2024-09-13,ha,5192,WF,Brazil,moderate
+1446,forest fire,Green,1,2024-09-13,ha,5039,WF,Brazil,moderate
+1447,forest fire,Green,1,2024-09-13,ha,11897,WF,Zambia,moderate
+1448,forest fire,Green,1,2024-09-13,ha,8091,WF,Angola,moderate
+1450,forest fire,Green,1,2024-09-13,ha,5665,WF,Brazil,moderate
+1451,forest fire,Green,1,2024-09-13,ha,12775,WF,Brazil,moderate
+1452,forest fire,Green,1,2024-09-13,ha,7820,WF,Brazil,moderate
+1453,forest fire,Green,1,2024-09-13,ha,7099,WF,Brazil,moderate
+1454,forest fire,Green,1,2024-09-13,ha,16227,WF,Australia,moderate
+1455,forest fire,Green,1,2024-09-13,ha,5042,WF,Australia,moderate
+1457,earthquake,Green,0,2024-09-13,M,4.8,EQ,Peru,minor
+1458,forest fire,Green,1,2024-09-13,ha,7156,WF,Zambia,moderate
+1459,forest fire,Green,1,2024-09-13,ha,7554,WF,Tanzania,moderate
+1460,forest fire,Green,1,2024-09-13,ha,16259,WF,Zambia,moderate
+1461,forest fire,Green,1,2024-09-13,ha,9916,WF,Zambia,moderate
+1462,forest fire,Green,1,2024-09-13,ha,15362,WF,Australia,moderate
+1463,forest fire,Green,1,2024-09-13,ha,7989,WF,Zambia,moderate
+1464,forest fire,Green,1,2024-09-13,ha,7712,WF,Brazil,moderate
+1465,earthquake,Green,0,2024-09-13,M,4.6,EQ,China,minor
+1466,earthquake,Green,0,2024-09-13,M,4.6,EQ,China,minor
+1467,forest fire,Green,1,2024-09-13,ha,5644,WF,Mozambique,moderate
+1468,forest fire,Green,1,2024-09-13,ha,14704,WF,Brazil,moderate
+1472,forest fire,Green,1,2024-09-13,ha,9493,WF,Brazil,moderate
+1473,forest fire,Green,1,2024-09-13,ha,5199,WF,Brazil,moderate
+1474,flood,Green,1,2024-09-13,,0,FL,Bulgaria,moderate
+1475,forest fire,Green,1,2024-09-13,ha,7466,WF,Brazil,moderate
+1476,forest fire,Green,1,2024-09-13,ha,6242,WF,Brazil,moderate
+1477,forest fire,Green,1,2024-09-13,ha,6489,WF,Australia,moderate
+1478,forest fire,Green,1,2024-09-13,ha,10918,WF,United States of America,moderate
+1479,forest fire,Green,1,2024-09-13,ha,7904,WF,Australia,moderate
+1480,forest fire,Green,1,2024-09-13,ha,6190,WF,Brazil,moderate
+1481,forest fire,Green,1,2024-09-13,ha,10473,WF,Brazil,moderate
+1485,earthquake,Green,0,2024-09-13,M,4.7,EQ,Chile,minor
+1486,earthquake,Green,0,2024-09-13,M,4.5,EQ,Peru,minor
+1487,forest fire,Green,1,2024-09-13,ha,7611,WF,Brazil,moderate
+1488,forest fire,Green,1,2024-09-13,ha,5170,WF,Paraguay,moderate
+1489,forest fire,Green,1,2024-09-13,ha,6586,WF,Brazil,moderate
+1490,forest fire,Green,1,2024-09-13,ha,7756,WF,Brazil,moderate
+1491,forest fire,Green,1,2024-09-13,ha,5263,WF,Angola,moderate
+1492,earthquake,Green,0,2024-09-13,M,4.5,EQ,Argentina,minor
+1495,forest fire,Green,1,2024-09-12,ha,7973,WF,Brazil,moderate
+1498,forest fire,Green,1,2024-09-12,ha,22637,WF,Australia,moderate
+1499,forest fire,Green,1,2024-09-12,ha,15729,WF,Paraguay,moderate
