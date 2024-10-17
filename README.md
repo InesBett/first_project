@@ -86,4 +86,4 @@ I follow the steps to install this libraries, starting by using **“!pip instal
 
 This project highlighted the complex nature of natural disasters, showing how critical it is to consider both the frequency of these events and their severity. By analyzing the data, I was able to identify important trends that support the hypotheses and offer valuable insights for improving risk control strategies. These findings can help guide decisions aimed at reducing vulnerability and enhancing community resilience in high-risk regions.
 
-For more detailed information please refer to the documentation also added in this repo :)
+For more detailed information please refer to the documentation also added in this repo 🙂
