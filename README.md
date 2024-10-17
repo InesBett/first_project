@@ -23,7 +23,9 @@ The overall goal of the analysis was to ensure data accuracy and integrity while
 
 **Supporting Ideas**:
 As the Southern Hemisphere enters its warmest seasons while the Northern Hemisphere moves into winter, we observe a predominance of fires due to extremely high temperatures in southern regions.
-The rise in global temperatures, combined with less rainfall and increased dryness, creates ideal conditions for fires. This correlation suggests that the frequency of fires may be linked to climate change, as rising temperatures dry out vegetation and decrease humidity levels. (More information can be found at https://wmo.int/media/news/global-temperature-record-streak-continues-climate-change-makes-heatwaves-more-extreme, sources by World Meteorological Organization)
+The rise in global temperatures, combined with less rainfall and increased dryness, creates ideal conditions for fires. 
+
+This correlation suggests that the frequency of fires may be linked to climate change, as rising temperatures dry out vegetation and decrease humidity levels. (More information can be found at https://wmo.int/media/news/global-temperature-record-streak-continues-climate-change-makes-heatwaves-more-extreme, sources by World Meteorological Organization)
 
 
 **Hypothesis 2**: *"The countries most frequently affected by natural disasters are not necessarily the same as those experiencing the highest severity of incidents, indicating a complex relationship between disaster occurrence and impact"*
@@ -55,6 +57,8 @@ With big pieces of data comes also an intense process of cleaning so let’s bre
 
    
 3.	**Data Cleaning** 🧹
+
+
 a.	**Incident**: Initially called ‘title’, I started by iterating over this column to get the name of the disaster that occurred in each row. To be able to do it I transformed the column title into a list.
 
 I used a for loop to iterate to each row first, then impose conditions inside the loop. If the word I was looking for was present in that row, it would be added to the empty list I created before for this purpose called incidents.  So, after this I got a list with only the incidents presents in the data Frame. Lastly, I just assigned the new cleaned list to the title columns substituting the values for a better understanding of the data.
