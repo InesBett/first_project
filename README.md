@@ -1,3 +1,5 @@
+   <img width="265" alt="safehorizon_screenshot" src="https://github.com/user-attachments/assets/416d7bd8-d4f1-4e04-a029-b175c2223c27">
+
 # Research on Natural Disasters | Risk Control Organization- SafeHorizon🌪️
 
 ## Introduction 
